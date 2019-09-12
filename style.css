@@ -1,0 +1,22 @@
+
+
+nav p {
+display: inline;
+margin: 5px;
+
+}
+
+nav img {
+  display: inline;
+}
+header {
+text-align: center;
+border: 5px double;
+margin: 10vh 5vh;
+
+}
+
+article img {
+
+  width: 100%;
+}
